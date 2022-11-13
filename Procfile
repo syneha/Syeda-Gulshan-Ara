@@ -1,1 +1,1 @@
-web: gunicorn django_srms.wsgi
+web: gunicorn student_management_system.wsgi
